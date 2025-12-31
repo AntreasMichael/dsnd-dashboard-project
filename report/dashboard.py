@@ -7,7 +7,7 @@ from employee_events.employee import Employee
 from employee_events.team import Team
 
 # utils inside report
-from report.utils import load_model
+from utils import load_model
 
 # Components
 from report.base_components import (
